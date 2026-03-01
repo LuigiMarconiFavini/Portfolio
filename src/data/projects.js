@@ -11,6 +11,17 @@ export const projects = [
     image: "/projects/canchaYA.jpeg",
   },
   {
+    title: "Strive - Fitness",
+    description: {
+      es: "Web moderna sobre entrenamiento, nutrición y hábitos saludables. El objetivo del proyecto es ayudar a las personas a mejorar su físico y su mentalidad mediante información clara sobre rutinas, alimentación, suplementación y constancia.",
+      en: "Modern website about training, nutrition and healthy habits. The goal of the project is to help people improve their physical and mental well-being through clear information about routines, nutrition, supplementation and consistency.",
+    },
+    tech: ["React", "Tailwind", "JavaScript"],
+    github: "https://github.com/LuigiMarconiFavini/STRIVE.git",
+    demo: null,
+    image: "/projects/strive1.png",
+  },
+  {
     title: "E-commerce de Frutas",
     description: {
       es: "Sistema completo con catálogo, carrito de compras y gestión de usuarios",
