@@ -11,6 +11,17 @@ export const projects = [
     image: "/projects/canchaYA.jpeg",
   },
   {
+    title: "Barber - Haircuts",
+    description: {
+      es: "Web moderna diseñada para Pablo Muñoz.",
+      en: "Modern website designed for Pablo Muñoz.",
+    },
+    tech: ["React", "Tailwind", "JavaScript"],
+    github: "https://github.com/LuigiMarconiFavini/BARBER.git",
+    demo: null,
+    image: "/projects/barber.png",
+  },
+  {
     title: "Strive - Fitness",
     description: {
       es: "Web moderna sobre entrenamiento, nutrición y hábitos saludables.",
