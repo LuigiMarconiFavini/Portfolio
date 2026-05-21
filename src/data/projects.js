@@ -1,5 +1,16 @@
 export const projects = [
   {
+    title: "Sistema de Gestión de Turnos para Barberías",
+    description: {
+      es: "Sistema para la gestión de turnos en barberías, con funcionalidades de reserva y administración.",
+      en: "System for managing appointments in barbershops, with reservation and administration features.",
+    },
+    tech: ["React", "Tailwind", "JavaScript", "Node.js", "Express"],
+    github: null,
+    demo: "https://saas-engine-multi-tenant.vercel.app/",
+    image: "/projects/sistema_de_turnos_para_barberias.png",
+  },
+  {
     title: "Barber - Haircuts",
     description: {
       es: "Web moderna diseñada para Pablo Muñoz.",
