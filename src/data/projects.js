@@ -7,7 +7,7 @@ export const projects = [
     },
     tech: ["React", "Tailwind", "JavaScript", "Node.js", "Express"],
     github: null,
-    demo: "https://saas-engine-multi-tenant.vercel.app/",
+    demo: "https://lattix-barber.vercel.app/",
     image: "/projects/sistema_de_turnos_para_barberias.png",
   },
   {
